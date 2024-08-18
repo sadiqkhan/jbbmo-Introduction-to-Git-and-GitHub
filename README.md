@@ -14,4 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-3Footer: 2023 XYZ, Inc.
+Footer: 2023 XYZ, Inc.
